@@ -1,1 +1,3 @@
 # 1stSemesterProject
+
+Project idea:
