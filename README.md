@@ -17,8 +17,13 @@ Link to course: https://www.codecademy.com/learn
 
 Progress Tracking:
 Week 4:
-Elements
-   1. Element content: information between the opening and closing tags of an element. (ex. <h1>Hello world</h1>)
+   Elements
+   1. Element content: information between the opening and closing tags of an element. (ex. <h1>Hello world</h1>, "Hello world" is the element)
    2. Types of content: list, video, image, heading, paragraph, etc.
-Structure
-   1.
+   Structure
+   1. HTML follows a family tree structure(parents, grandparents, siblings, children, grandchildren, etc.)
+   2. Syntax: opening tag(<h1>) + content + closing tag(</h1>) (ex. <h1>Hello world</h1>)
+   3. Indentation matters
+   4. Use (<!--) and (-->) to comment (ex. <!--hi-->)
+
+Week 5:
