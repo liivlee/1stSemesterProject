@@ -16,7 +16,7 @@ Course: Learn HTML
 Link to course: https://www.codecademy.com/learn
 
 Progress Tracking:
-Week 4:
+Week 4: Completed 16% of the course
    Elements
    1. Element content: information between the opening and closing tags of an element. (ex. <h1>Hello world</h1>, "Hello world" is the element)
    2. Types of content: list, video, image, heading, paragraph, etc.
@@ -26,4 +26,4 @@ Week 4:
    3. Indentation matters
    4. Use (<!--) and (-->) to comment (ex. <!--hi-->)
 
-Week 5:
+Week 5: Completed 17% of the course(33% total)
