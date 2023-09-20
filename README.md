@@ -27,3 +27,5 @@ Week 4: Completed 16% of the course
    4. Use (<!--) and (-->) to comment (ex. <!--hi-->)
 
 Week 5: Completed 17% of the course(33% total)
+
+During week 4 and 5, I made a website about bears! I learned how to add a title, paragraph, list, image, video, link websites, etc.
