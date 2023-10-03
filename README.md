@@ -29,3 +29,9 @@ Week 4: Completed 16% of the course
 Week 5: Completed 17% of the course(33% total)
 
 During week 4 and 5, I made a website about bears! I learned how to add a title, paragraph, list, image, video, link websites, etc.
+
+
+Week 6: Completed course on Code Academy, did research to gather resources to start making my website
+Link to the tutorial that will help me make the website: https://www.youtube.com/watch?v=uzkedMF-l4Q&list=PLbu98QxRH81KkLTN00OXhD8Y-pRVgTCnM
+I will be using three.js to make cool animations for my website
+What is three.js? Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
