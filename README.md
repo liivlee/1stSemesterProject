@@ -38,10 +38,33 @@ I will be using three.js to make cool animations for my website
 What is three.js? Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
 
 Plan for week 7:
-Make a website with a home page and a nav bar to 4 other pages
+Make a website with a home page and a nav bar to 3 other pages
 
 Plan for week 8:
 Add animation to the home page
 
 Plan for week 9 & 10:
 Add content to the website including a quiz and a small game
+
+
+Project Objective
+- Interactive educational website
+- Educates and advocates users on the issue of climate change
+- Includes features such as 3d animation, quiz, and game
+
+MVP:
+Homepage
+Page 1: Information(Cause of climate change, current state, importance of taking action, how to take action)
+Page 2: Quiz(based on the information from page 1)
+Page 3: Mini game(still thinking)
+
+Progress
+- I am finishing the 3d earth animation for the homepage
+
+Timeline
+Week of 11/6: Make Page 1(informational page)
+Week of 11/13: Start Page 2(quiz)
+Week of 11/20: Finish Page 2(quiz)
+Week of 11/27: Start Page 3(mini game)
+Week of 12/4: Continue to make Page 3(mini game)
+Week of 12/11: Finish Page 3(mini game)
