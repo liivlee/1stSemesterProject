@@ -68,3 +68,13 @@ Week of 11/20: Finish Page 2(quiz)
 Week of 11/27: Start Page 3(mini game)
 Week of 12/4: Continue to make Page 3(mini game)
 Week of 12/11: Finish Page 3(mini game)
+
+Demo
+- I will show you tomorrow(I forgot my laptop today)
+
+Documentation
+- I linked my project to github but it is not showing???
+- I will have it figured out by tomorrow
+
+Reflection
+- I am now more familiar with HTML and CSS
