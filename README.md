@@ -54,7 +54,7 @@ Project Objective
 
 MVP:
 Homepage
-Page 1: Information(Cause of climate change, current state, importance of taking action, how to take action)
+Page 1: Information(Cause of climate change, current state, statistics, importance of taking action, how to take action)
 Page 2: Quiz(based on the information from page 1)
 Page 3: Mini game(still thinking)
 
