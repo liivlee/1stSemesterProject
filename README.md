@@ -53,10 +53,10 @@ Project Objective
 - Includes features such as 3d animation, quiz, and game
 
 MVP:
-Homepage
-Page 1: Information(Cause of climate change, current state, statistics, importance of taking action, how to take action)
-Page 2: Quiz(based on the information from page 1)
-Page 3: Mini game(still thinking)
+- Homepage
+- Page 1: Information(Cause of climate change, current state, statistics, importance of taking action, how to take action)
+- Page 2: Quiz(based on the information from page 1)
+- Page 3: Mini game(still thinking)
 
 Progress
 - I am finishing the 3d earth animation for the homepage
